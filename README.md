@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dushyant0007
-- 👀 I’m interested in every thing, anything new
-- 🌱 I’m currently learning Networking
-
+- 👋 Hi, I’m Dushyant Jakhar
+- 👀 I’m interested in every thing, anything
+-    yha life fell short because it is
+- 🌱 I’m currently learning Python, Java
 - 📫 How to reach me  dushyantjakhar007@gmail.com
 
 <!---
