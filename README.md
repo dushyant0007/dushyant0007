@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dushyant Jakhar
 - 👀 I’m interested in every thing, anything
 -    yha life fell short because it is
-- 🌱 I’m currently learning Python, Java
+- 🌱 I’m currently learning Music
 - 📫 How to reach me  dushyantjakhar007@gmail.com
 
 <!---
