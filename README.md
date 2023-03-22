@@ -9,4 +9,4 @@ dushyant0007/dushyant0007 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dushyant0007&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dushyant0007&show_icons=true&theme=transparent)
