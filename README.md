@@ -9,7 +9,7 @@ dushyant0007/dushyant0007 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dushyant0007&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dushyant0007&show_icons=true&theam=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dushyant0007&hide_progress=true)](https://github.com/dushyant0007/github-readme-stats)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/DushyantJakhar?ext=heatmap)
